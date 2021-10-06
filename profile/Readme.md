@@ -1,2 +1,2 @@
-# STMicroelectronics open source software
+# STMicroelectronics software
 
