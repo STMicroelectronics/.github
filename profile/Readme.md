@@ -7,7 +7,7 @@ At ST, we are creators of technology. We provide easy-to-use software developmen
 
 The open-source software here is delivered by [ST](https://www.st.com). This software is part of our complete software offer that you can find on  www.st.com together with all the associated documentation and related ST products (devices, reference designs, development boards, and more).
 
-Although the majority of our software is published here under open-source licenses, part of it is released under proprietary licenses. Please check the included License.md files for more details.
+Although the majority of our software is published here under open-source licenses, part of it is released under proprietary licenses. Please check the License.md file included in each repository for more details.
 
 If you are willing to contribute to our software on [GitHub](https://github.com/STMicroelectronics) please make sure the repository owner has authorized this possibility by reading the CONTRIBUTING.md and check our [CLA portal](https://cla.st.com) in order to sign your contributor license agreement.
 
