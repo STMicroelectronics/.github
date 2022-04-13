@@ -17,7 +17,7 @@ Our [ST website](https://www.st.com) will give you access to a broader software 
 
 For more information, please visit our different information and support channels:
 
-- [ST website](www.st.com) and [ST embedded software offer](https://www.st.com/en/embedded-software.html)
+- [ST website](https://www.st.com) and [ST embedded software offer](https://www.st.com/en/embedded-software.html)
 - [ST Community](https://www.st.com/content/st_com/en/st-community.html)
 - [ST Wiki](https://wiki.st.com/)
 - [ST Support Home](https://www.st.com/content/st_com/en/support/support-home.html)
