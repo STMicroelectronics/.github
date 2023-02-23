@@ -1,4 +1,4 @@
-<img width=154 alt="ST life.augmented" src="https://github.com/STMicroelectronics/images/st-logo.svg">
+<img width=154 alt="ST life.augmented" src="https://github.com/STMicroelectronics/.github/blob/main/profile/images/st-logo.svg">
 
 # STMicroelectronics open source software
 
