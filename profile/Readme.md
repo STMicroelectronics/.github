@@ -1,4 +1,4 @@
-<img width=154 alt="ST life.augmented" src="https://www.st.com/etc/clientlibs/st-site-cx/media/app/images/st-logo.svg">
+<img width=154 alt="ST life.augmented" src="./images/st-logo.svg">
 
 # STMicroelectronics open source software
 
