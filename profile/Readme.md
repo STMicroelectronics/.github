@@ -1,4 +1,4 @@
-<img src="https://www.st.com/etc/clientlibs/st-site-cx/media/app/images/st-logo.svg" />
+<img src="https://www.st.com/etc/clientlibs/st-site-cx/media/app/images/st-logo.svg?sanitize=true" />
 
 # STMicroelectronics open source software
 
